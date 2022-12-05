@@ -226,6 +226,10 @@ body{
 /* .section-margin{
     margin-bottom: 120px;
 } */
+.section-main{
+    padding-top: 96px;
+    padding-bottom: 120px;
+}
 .section.new{
     display: flex;
     flex-wrap: wrap;
@@ -383,7 +387,7 @@ body{
 .flex-button {
     display: flex;
     justify-content: center;
-    margin-top: 96px;
+    /* margin-top: 96px; */
     margin-bottom: 72px;
     /* margin-top: 96px;
     margin-left: 271px;
